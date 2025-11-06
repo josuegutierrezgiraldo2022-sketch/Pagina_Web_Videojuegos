@@ -1,15 +1,13 @@
 body {
-
- background-image: url("/img/icono.png"); 
-            background-size: cover;
-            background-position: center;
-            height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-
+    background-image: url("/img/icono.png"); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -17,7 +15,6 @@ body {
 }
 
 h1 {
-   
     text-align: center;
     color: #333;
     margin-top: 20px;
@@ -66,4 +63,5 @@ h3 {
 p {
     color: #555;
     line-height: 1.6;
+
 }
